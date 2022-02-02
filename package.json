@@ -1,0 +1,25 @@
+{
+  "name": "revlocal_feb2022_pricecalculator",
+  "version": "1.0.0",
+  "description": "Feb 2022 Code Challenge - Price Calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msullivan247/RevLocal_Feb2022_PriceCalculator.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "author": "Matthew Sullivan msullivan@revlocal.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msullivan247/RevLocal_Feb2022_PriceCalculator/issues"
+  },
+  "homepage": "https://github.com/msullivan247/RevLocal_Feb2022_PriceCalculator#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
