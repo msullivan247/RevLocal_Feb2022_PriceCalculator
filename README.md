@@ -43,3 +43,12 @@ This would represent a shopping cart containing:
 1 quantity of product E
 
 Answer: $1,928.55
+
+Prices with discounts for sets of items:
+0%  = 299.00 x 1 =  299.00
+5%  = 284.05 x 2 =  568.10
+10% = 269.10 x 3 =  807.30
+20% = 239.20 x 4 =  956.80
+25% = 224.25 x 5 = 1121.25
+
+Each unique set of 2 or more items gets its own discount rate.
